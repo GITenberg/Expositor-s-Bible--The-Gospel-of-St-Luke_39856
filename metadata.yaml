@@ -1,0 +1,25 @@
+_repo: Expositor-s-Bible--The-Gospel-of-St-Luke_39856
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burton, Henry
+    birthdate: 1840
+    gutenberg_agent_id: '40263'
+    url: http://www.gutenberg.org/2009/agents/40263
+description: ''
+gutenberg_issued: '2012-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Luke -- Commentaries'
+title: 'Expositor''s Bible: The Gospel of St Luke'
+url: http://www.gutenberg.org/ebooks/39856
